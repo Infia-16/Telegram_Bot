@@ -1,0 +1,4 @@
+🛡️ Security
+Do not hardcode your bot token in the code.
+
+Use environment variables or a config file and .gitignore .env.
